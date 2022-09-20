@@ -1,4 +1,4 @@
-Hi 👋 My name is Abdallah Agmar
+Hi 👋 I'm Abdallah Agmar
 ===============================
 
 Full Stack Web Developer
