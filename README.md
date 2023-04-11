@@ -6,7 +6,7 @@ Full Stack Web Developer
 
 I'm a Full Stack Web Developer and i have serious passion for creating websites .
 
-*   🧠  I'm learning ReactJs
+*   🧠  I'm learning Laravel
 *   ⚡  I like cooking 👨‍🍳
 
 ### Skills
