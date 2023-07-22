@@ -28,7 +28,8 @@ I'm a Full Stack Web Developer and i have serious passion for creating websites 
 
 ### Socials
 
-<p align="left"> <a href="https://codepen.io/abdallahag5" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a> <a href="https://www.instagram.com/ag__abdo/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  /></a> <a href="https://www.linkedin.com/in/abdallah-agmar/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+<p align="left"> <a href="https://codepen.io/abdallahag5" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a> <a href="https://www.instagram.com/ag__abdo/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  /></a> <a href="https://www.linkedin.com/in/abdallah-agmar/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:abdallah.agmar2507@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
 
 
 ### My GitHub Stats
