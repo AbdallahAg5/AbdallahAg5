@@ -34,6 +34,9 @@ I'm a Full Stack Web Developer and i have serious passion for creating websites 
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/AbdallahAg5"><img src="https://github-readme-stats.vercel.app/api?username=AbdallahAg5&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AbdallahAg5's GitHub stats" /></a>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdallahAg5&show_icons=true&theme=radical&locale=en&title_color=fcb526" alt="AbdallahAg5 Stats" width="420"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahAg5&layout=compact&theme=radical&locale=en&title_color=fcb526" alt="AbdallahAg5 Languages" height="165">
+</p>
 
 
