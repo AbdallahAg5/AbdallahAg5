@@ -1,7 +1,11 @@
 Hi 👋 I'm Abdallah Agmar
+      [![](https://visitcount.itsvg.in/api?id=AbdallahAg5&icon=1&color=2)](https://visitcount.itsvg.in)
 ===============================
 
-Full Stack Web Developer
+
+Full Stack Web Developer    
+
+
 ------------------------
 
 I'm a Full Stack Web Developer and i have serious passion for creating websites .
