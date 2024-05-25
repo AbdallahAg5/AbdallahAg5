@@ -10,7 +10,7 @@ Full Stack Web Developer
 
 I'm a Full Stack Web Developer and i have serious passion for creating websites .
 
-*   🧠  I'm learning NextJs / Typescript
+*   🧠  I'm learning every day
 *   ⚡  I like cooking 👨‍🍳
 
 ### Skills
